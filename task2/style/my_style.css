@@ -1,0 +1,30 @@
+
+.color1 {
+    color: black;
+    background-color: #fc00fc;
+    height: 250px;
+    width: 250px;
+    font-size: 14px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.color2 {
+    color: white;
+    background-color: #530f45;
+    height: 250px;
+    width: 250px;
+    font-size: 14px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.color3 {
+    color: white;
+    background-color: #322744;
+    height: 250px;
+    width: 250px;
+    font-size: 14px;
+    margin: 10px;
+    padding: 10px;
+}
