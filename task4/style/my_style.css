@@ -1,0 +1,31 @@
+body
+{
+    background-image: url("../image/kha1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div
+{   width: 300px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 18px;
+}
+.kh1
+{
+    background-image: url("../image/kha2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kh2
+{
+    background-image: url("../image/kha3.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+}
+.kh3
+{
+    background-image: url("../image/kha1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
