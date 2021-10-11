@@ -1,0 +1,24 @@
+.my-div {
+    width: 400px;
+    height: 400px;
+    font-size: 20px;
+    background-image: url("../image/kh.jpg");
+}
+
+.kh1 {
+    background-repeat: no-repeat;
+}
+
+.kh2 {
+    background-repeat: repeat-y;
+    background-position: right;
+}
+
+.kh3 {
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+
+.kh4 {
+    background-repeat: repeat-x repeat-y;
+}
